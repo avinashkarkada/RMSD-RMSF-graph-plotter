@@ -2,7 +2,7 @@
 This repository contains python based gui code to plot rmsd/f graph from a .xvg file.
 
 
-HOW TO USE:
+HOW TO USE RMSDF-simple.py:
 ==============================================================================
 1. Run the python code "Sample11.py" to get Tkinter window
 2. The window contains 2 buttons: "Add files" and "Plot"
