@@ -1,7 +1,7 @@
 # RMSD-RMSF-graph-plotter
 This repository contains python based gui code to plot rmsd/f graph from a .xvg file.
 
-*All the necessary packages: Tkinter, Python3, Matplotlib needs to be installed!!!*
+*All the necessary packages: Tkinter, Python3, Matplotlib are to be installed!!!*
 
 
 HOW TO USE RMSDF-simple.py:
